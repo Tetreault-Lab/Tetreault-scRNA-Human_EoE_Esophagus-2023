@@ -21,4 +21,4 @@ This repository contains the R code for processing the raw data and for the anal
 
 Seurat (4.2.0): https://satijalab.org/seurat/
 
-Monocle (0.0.0): https://cole-trapnell-lab.github.io/monocle3/
+Monocle (3.0.0): https://cole-trapnell-lab.github.io/monocle3/
